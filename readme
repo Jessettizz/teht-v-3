@@ -1,3 +1,54 @@
+html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+   <ul>
+      <li><a href="default.asp">Home</a></li>
+      <li><a href="news.asp">News</a></li>
+      <li><a href="contact.asp">Contact</a></li>
+      <li><a href="about.asp">About</a></li>
+    </ul>
+<h1>Halinen</h1>
+
+
+
+<img src="halinen1.jfif" alt="" style="width:500px;height:500px;">
+
+<h1>Halinen on hieno paikka</h1>
+<p>Halinen on Turun Aurajoen yläjuoksulla sijaitseva kaupunginosa. Vuonna 2016 Halisten asukasluku oli 3 571. 
+   Alueen väestöstä 20,7 % on alle 15-vuotiaita ja 7,9 % yli 65 vuotiaita.
+
+</p>
+<hr>
+<h2>Lisää halisista</h2>
+<p> Suomea puhuu äidinkielenään 66,3 % väestöstä ja ruotsia 4,4 %. Muun kielisiä on 29,3 %.
+    Turussa Halinen on tunnettu yhtenä kaupungin suurimmista maahanmuuttajakeskittymistä, Halistenkoskesta ja padostaan. </p>
+<hr>
+<h1>Kuka ei pidä halisista</h1>
+<p>Kuka ei tykkäisi halisista, halinen on todella hieno paikka ja suomen yksi hienoimpia paikkoja asua. Jos olet miljonääri ja yli 40 voit asua halisissa.</p>
+<hr>
+
+Kuva halisten hesburgerista:
+
+<img src="halinen2.jfif" alt="" style="width:500px;height:500px;">
+
+<hr>
+
+
+<h2>tässä vielä linkkejä halisiin liittyen:</h2>
+<p><a href="https://www.hesburger.fi/ravintolat?tid=156">Halisten hesburger</a></p>
+<p><a href="https://www.s-kaupat.fi/myymala/s-market-halinen/603212622">Halisten s market</a></p>
+<p><a href="https://www.turku.fi/toimipaikat/halisten-nuorisotila">Halisten nuorisotalo</a></p>
+
+<hr>
+
+</body>
+</html>
+
 
 <style>
 a:link {
@@ -77,3 +128,4 @@ button:hover{
 }
 
 </style>
+main
